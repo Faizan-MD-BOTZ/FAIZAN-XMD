@@ -75,9 +75,9 @@ module.exports = {
       const fastEmoji = getRandomEmoji(fastEmojis);
       const slowEmoji = getRandomEmoji(slowEmojis);
 
-      let menuText = `${menuEmoji} *${settings.botName || 'MEGA-MD'}* ${menuEmoji}\n\n`;
+      let menuText = `${menuEmoji} *${settings.botName || '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃'}* ${menuEmoji}\n\n`;
       menuText += `┏━━━━━━━━━━━━━━━━┓\n`;
-      menuText += `┃ 📱 *Bot:* ${settings.botName || 'MEGA-MD'}\n`;
+      menuText += `┃ 📱 *Bot:* ${settings.botName || '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃'}\n`;
       menuText += `┃ 🔖 *Version:* ${settings.version || '1.0.0'}\n`;
       menuText += `┃ 👤 *Owner:* ${settings.botOwner || 'Unknown'}\n`;
       menuText += `┃ ⏰ *Time:* ${formatTime()}\n`;
@@ -138,8 +138,8 @@ module.exports = {
           forwardingScore: 1,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363319098372999@newsletter',
-            newsletterName: settings.botName || 'MEGA MD',
+            newsletterJid: '120363425143124298@newsletter',
+            newsletterName: settings.botName || '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃,
             serverMessageId: -1
           }
         }
