@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GlobalTechInfo&label=Profile+Views&color=success&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Faizan-MD-BOTZ/&label=Profile+Views&color=success&style=flat-square" />
 <img src="https://img.shields.io/github/stars/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=blue&style=yellow-square" />
 <img src="https://img.shields.io/github/forks/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/repo-size/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=success&style=flat-square" />
