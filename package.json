@@ -1,7 +1,7 @@
 {
-  "name": "mega",
-  "version": "5.2.0",
-  "description": "WhatsApp Bot",
+  "name": "FAIZAN-MD",
+  "version": "5.0.0",
+  "description": "FAIZAN-MD",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -33,16 +33,16 @@
     "multi-device",
     "mega-ai"
   ],
-  "homepage": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "homepage": "https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GlobalTechInfo/MEGA-MD.git"
+    "url": "git+https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD.git"
   },
   "bugs": {
-    "url": "https://github.com/GlobalTechInfo/MEGA-MD/issues"
+    "url": "https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD/issues"
   },
   "license": "MIT",
-  "author": "GlobalTechInfo",
+  "author": "FAIZAN-MD",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
@@ -110,11 +110,11 @@
   },
   "contributors": [
     {
-      "name": "Qasim Ali",
+      "name": "FAIZAN-MD",
       "role": "Lead Developer"
     },
     {
-      "name": "GlobalTechInfo",
+      "name": "FAIZAN-MD",
       "role": "Maintainer"
     }
   ]
