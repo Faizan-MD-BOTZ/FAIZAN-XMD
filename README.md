@@ -9,10 +9,10 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=GlobalTechInfo&label=Profile+Views&color=success&style=flat-square" />
-<img src="https://img.shields.io/github/stars/GlobalTechInfo/MEGA-MD?color=blue&style=yellow-square" />
-<img src="https://img.shields.io/github/forks/GlobalTechInfo/MEGA-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/GlobalTechInfo/MEGA-MD?color=success&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/GlobalTechInfo/MEGA-MD?color=yellow&style=flat-square" />
+<img src="https://img.shields.io/github/stars/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=blue&style=yellow-square" />
+<img src="https://img.shields.io/github/forks/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=success&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=yellow&style=flat-square" />
 <a href="https://discord.gg/fZ7MVJM9sq">
   <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
 </a>
@@ -32,7 +32,7 @@
 Click the button below to fork the Mega Md repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/GlobalTechInfo/MEGA-MD/fork">
+  <a href="https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD">
     <img src="https://img.shields.io/badge/Fork-Repo-orange?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -79,7 +79,7 @@ Easily connect to your WhatsApp account by pair code.
 1. [Sign Up on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly In Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/MEGA-MD/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD' target="_blank">
       <img alt='Deploy In Heroku' src='https://img.shields.io/badge/-DEPLOY%20NOW-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
