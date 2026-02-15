@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp Bot"
   ],
-  "repository": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "repository": "https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD",
   "stack": "container",
   "env": {
     "MONGO_URL": {
