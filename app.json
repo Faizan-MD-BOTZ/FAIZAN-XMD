@@ -1,9 +1,10 @@
 {
-  "name": "mega-md",
-  "description": " Whatsapp automation",
+  "name": "FAIZAN-XMD",
+  "description": "JavaScript Whatsapp Bot",
   "keywords": [
     "whatsapp Bot"
   ],
+  "logo": "https://files.catbox.moe/ejufwa.jpg",
   "repository": "https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD",
   "stack": "container",
   "env": {
@@ -20,16 +21,6 @@
     "POSTGRES_URL": {
       "description": "Put if you have postgres database url",
       "required": false,
-      "value": ""
-    },
-     "HKEY": {
-      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
-      "required": true,
-      "value": ""
-    },
-     "HAPP": {
-      "description": "Put the Heroku app name, same as above entered",
-      "required": true,
       "value": ""
     },
     "SESSION_ID": {
