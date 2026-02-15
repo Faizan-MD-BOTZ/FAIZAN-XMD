@@ -1,14 +1,14 @@
 /*****************************************************************************
  *                                                                           *
- *                     Developed By Qasim Ali                                *
+ *                     Developed By Faizan jutt                                *
  *                                                                           *
- *  🌐  GitHub   : https://github.com/GlobalTechInfo                         *
+ *  🌐  GitHub   : https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD/tree/main                         *
  *  ▶️  YouTube  : https://youtube.com/@GlobalTechInfo                       *
  *  💬  WhatsApp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07     *
  *                                                                           *
  *    © 2026 GlobalTechInfo. All rights reserved.                            *
  *                                                                           *
- *    Description: This file is part of the MEGA-MD Project.                 *
+ *    Description: This file is part of the FAIZAN-MD Project.                 *
  *                 Unauthorized copying or distribution is prohibited.       *
  *                                                                           *
  *****************************************************************************/
@@ -69,15 +69,15 @@ module.exports = {
 
 /*****************************************************************************
  *                                                                           *
- *                     Developed By Qasim Ali                                *
+ *                     Developed By Faizan-jutt                                *
  *                                                                           *
- *  🌐  GitHub   : https://github.com/GlobalTechInfo                         *
+ *  🌐  GitHub   : https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD/tree/main                         *
  *  ▶️  YouTube  : https://youtube.com/@GlobalTechInfo                       *
  *  💬  WhatsApp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07     *
  *                                                                           *
  *    © 2026 GlobalTechInfo. All rights reserved.                            *
  *                                                                           *
- *    Description: This file is part of the MEGA-MD Project.                 *
+ *    Description: This file is part of the FAIZAN-MD Project.                 *
  *                 Unauthorized copying or distribution is prohibited.       *
  *                                                                           *
  *****************************************************************************/
