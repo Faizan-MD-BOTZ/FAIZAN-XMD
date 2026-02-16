@@ -8,11 +8,10 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-MD-BOTZ/&label=Profile+Views&color=success&style=flat-square" />
-<img src="https://img.shields.io/github/stars/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=blue&style=yellow-square" />
-<img src="https://img.shields.io/github/forks/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=success&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/Faizan-MD-BOTZ/FAIZAN-XMD-MD?color=yellow&style=flat-square" />
+<img src="https://img.shields.io/github/stars/Faizan-MD-BOTZ/FAIZAN-XMD?color=blue&style=yellow-square" />
+<img src="https://img.shields.io/github/forks/Faizan-MD-BOTZ/FAIZAN-XMD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/Faizan-MD-BOTZ/FAIZAN-XMD?color=success&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/Faizan-MD-BOTZ/FAIZAN-XMD?color=yellow&style=flat-square" />
 <a href="https://discord.gg/fZ7MVJM9sq">
   <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
 </a>
