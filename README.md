@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <a href="https://youtube.com/@GlobalTechInfo"> 
-    <img src="https://github.com/GlobalTechInfo/MEGA-MD/blob/main/assets/bot_image.jpg" alt="MEGA AI" height="300"> 
+    <img src="https://github.com/Faizan-MD-BOTZ/FAIZAN-XMD/blob/main/assets/bot_image.jpg" alt="MEGA AI" height="300"> 
   </a> 
 </div>
 
