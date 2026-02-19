@@ -76,7 +76,7 @@ setInterval(() => {
 let phoneNumber = global.PAIRING_NUMBER || process.env.PAIRING_NUMBER || "923051391005";
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'));
 
-global.botname = process.env.BOT_NAME || "MEGA-MD";
+global.botname = process.env.BOT_NAME || "FAIZAN-XMD";
 global.themeemoji = "•";
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code");
@@ -486,8 +486,8 @@ async function startQasimDev() {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363319098372999@newsletter',
-                                newsletterName: 'MEGA MD',
+                                newsletterJid: '120363425143124298@newsletter',
+                                newsletterName: 'FAIZAN-XMD',
                                 serverMessageId: -1
                             }
                         }
@@ -497,12 +497,12 @@ async function startQasimDev() {
                 }
 
                  await delay(1999);
-                console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'MEGA-MD'} ]`)}\n\n`));
+                console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'FAIZAN-XMD'} ]`)}\n\n`));
                 console.log(chalk.cyan(`< ================================================== >`));
                 console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: GlobalTechInfo`));
-                console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: GlobalTechInfo`));
+                console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: Faizan-MD-BOTZ);
                 console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`));
-                console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: Qasim Ali`));
+                console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: Faizan jutt`));
                 console.log(chalk.green(`${global.themeemoji || '•'} 🤖 Bot Connected Successfully! ✅`));
                 console.log(chalk.blue(`Bot Version: ${settings.version}`));
                 console.log(chalk.cyan(`Loaded Commands: ${commandHandler.commands.size}`));
@@ -566,7 +566,7 @@ async function startQasimDev() {
 
 
 async function main() {
-    printLog('info', 'Starting MEGA MD BOT...');
+    printLog('info', 'Starting FAIZAN XMD BOT...');
     
     const sessionReady = await initializeSession();
     
