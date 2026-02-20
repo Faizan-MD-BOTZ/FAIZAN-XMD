@@ -75,9 +75,9 @@ module.exports = {
       const fastEmoji = getRandomEmoji(fastEmojis);
       const slowEmoji = getRandomEmoji(slowEmojis);
 
-      let menuText = `${menuEmoji} *${settings.botName || '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃'}* ${menuEmoji}\n\n`;
+      let menuText = `${menuEmoji} *${settings.botName || 'FAIZAN-MD'}* ${menuEmoji}\n\n`;
       menuText += `┏━━━━━━━━━━━━━━━━┓\n`;
-      menuText += `┃ 📱 *Bot:* ${settings.botName || '𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃'}\n`;
+      menuText += `┃ 📱 *Bot:* ${settings.botName || 'FAIZAN-MD'}\n`;
       menuText += `┃ 🔖 *Version:* ${settings.version || '1.0.0'}\n`;
       menuText += `┃ 👤 *Owner:* ${settings.botOwner || 'Unknown'}\n`;
       menuText += `┃ ⏰ *Time:* ${formatTime()}\n`;
